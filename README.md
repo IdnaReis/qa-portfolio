@@ -19,9 +19,9 @@ Este repositório documenta minha jornada de transição de carreira para **Qual
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
-- Jira  
+
 - Git  
-- Qase  
+- BDD 
 - Trello  
 - (adicionar outras conforme for estudando, ex.: Selenium, Postman, etc.)
 
