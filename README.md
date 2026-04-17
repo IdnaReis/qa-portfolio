@@ -8,8 +8,8 @@
 ![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-lightblue?logo=jira)
 ![OpenToWork](https://img.shields.io/badge/Open_To_Work-Yes-brightgreen)
 
-Bem-vindo ao meu portfólio de **Quality Assurance (QA)**!  
-Aqui você encontra projetos práticos que desenvolvi durante minha transição para a área de tecnologia, aplicando **testes manuais e automatizados**, boas práticas de qualidade de software e documentação clara.
+👋 Olá! Eu sou **Idna Reis**, em transição para a área de **Quality Assurance (QA)**.  
+Aqui você encontra meus projetos práticos, aplicando **testes manuais e automatizados**, boas práticas de qualidade de software e documentação clara.
 
 ---
 
@@ -54,3 +54,9 @@ Aqui você encontra projetos práticos que desenvolvi durante minha transição 
 
 ## 🎯 Objetivo
 Integrar equipes de tecnologia como **QA Analyst**, contribuindo com atenção a detalhes, raciocínio analítico e dedicação à entrega de software confiável.
+
+
+
+## 📈 Evolução Contínua
+Este portfólio será atualizado regularmente com novos projetos, estudos e práticas em QA.
+
