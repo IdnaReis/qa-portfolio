@@ -1,39 +1,56 @@
-# 🚀 Transição de Carreira para QA Júnior
+# 🧪 Portfólio QA – Idna Reis
 
-Este repositório documenta minha jornada de transição de carreira para **Quality Assurance (QA)**, incluindo estudos, projetos práticos e reflexões sobre meu desenvolvimento profissional.
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green?logo=selenium)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-orange?logo=pytest)
+![GitHub](https://img.shields.io/badge/GitHub-Versionamento-black?logo=github)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange?logo=postman)
+![Agile](https://img.shields.io/badge/Agile-Scrum%20%26%20Kanban-lightblue?logo=jira)
+![OpenToWork](https://img.shields.io/badge/Open_To_Work-Yes-brightgreen)
 
----
-
-## 📊 Resumo Analítico
-(cole aqui o resumo analítico que já formatamos anteriormente)
-
----
-
-## 📂 Estrutura do Repositório
-
-- **/resumo** → Documentos sobre minha transição de carreira e análises de perfil  
-- **/estudos** → Anotações e exercícios práticos sobre QA, testes manuais e automação  
-- **/projetos** → Projetos práticos aplicando ferramentas como Jira, Git, Qase e Trello  
-- **/certificados** → Certificados e cursos concluídos relacionados a QA e tecnologia  
+Bem-vindo ao meu portfólio de **Quality Assurance (QA)**!  
+Aqui você encontra projetos práticos que desenvolvi durante minha transição para a área de tecnologia, aplicando **testes manuais e automatizados**, boas práticas de qualidade de software e documentação clara.
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
-- Jira  
-- Git  
-- Qase  
-- Trello  
-- (adicionar outras conforme for estudando, ex.: Selenium, Postman, etc.)
+## 🚀 Projetos em Destaque
+
+### 🔹 [Simulando Malware em Python – DIO](https://github.com/IdnaReis/Simulando-um-Malware-de-Captura-de-Dados-Simples-em-Python-e-Aprendendo-a-se-Proteger-DIO)
+- Objetivo: compreender como funcionam malwares (Ransomware e Keylogger) e aplicar estratégias de defesa.  
+- Diferencial: documentação completa + mapa mental visual.  
+- Tecnologias: Python, GitHub, Markdown.  
 
 ---
 
-## 🎯 Objetivos
-- Consolidar conhecimentos teóricos em prática real  
-- Desenvolver experiência com ferramentas de QA  
-- Criar portfólio de projetos para demonstrar evolução  
-- Preparar-me para entrevistas e oportunidades na área de QA  
+### 🔹 [IA Mentor de Carreira](https://github.com/IdnaReis/ia-mentor-carreira)
+- Objetivo: aplicação de IA para sugerir habilidades de carreira em tecnologia.  
+- Diferencial: testes automatizados com Pytest e estrutura modular.  
+- Tecnologias: Python, Pytest, Git/GitHub.  
 
 ---
 
-## 🤝 Contribuições
-Este repositório é aberto para feedback e sugestões. Se você também está em transição para QA, sinta-se à vontade para trocar experiências!
+### 🔹 [QA Desafio DIO](https://github.com/IdnaReis/qa-desafio-dio)
+- Objetivo: prática de testes manuais funcionais em cenários reais.  
+- Diferencial: documentação de casos de teste e relatórios de validação.  
+- Tecnologias: Testes manuais, QA, GitHub.  
+
+---
+
+### 🔹 [Mapa de Habilidades – DIO](https://github.com/IdnaReis/mapa-de-habilidades)
+- Objetivo: organizar e visualizar habilidades adquiridas em cursos e bootcamps.  
+- Diferencial: uso de mapas mentais para consolidar aprendizado.  
+- Tecnologias: Markdown, GitHub.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- Testes Manuais & Automatizados (Selenium, Pytest)  
+- Validação de APIs (Postman)  
+- Versionamento e colaboração (Git/GitHub)  
+- Metodologias Ágeis (Scrum, Kanban)  
+- Programação em Python  
+
+---
+
+## 🎯 Objetivo
+Integrar equipes de tecnologia como **QA Analyst**, contribuindo com atenção a detalhes, raciocínio analítico e dedicação à entrega de software confiável.
