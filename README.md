@@ -1,3 +1,4 @@
+
 # 🧪 Portfólio QA – Idna Reis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
@@ -9,7 +10,7 @@
 ![OpenToWork](https://img.shields.io/badge/Open_To_Work-Yes-brightgreen)
 
 👋 Olá! Eu sou **Idna Reis**, em transição para a área de **Quality Assurance (QA)**.  
-Aqui você encontra meus projetos práticos, aplicando **testes manuais e automatizados**, boas práticas de qualidade de software e documentação clara.
+Este repositório centraliza meus projetos práticos, aplicando **testes manuais e automatizados**, boas práticas de qualidade de software e documentação clara.
 
 ---
 
@@ -43,6 +44,13 @@ Aqui você encontra meus projetos práticos, aplicando **testes manuais e automa
 
 ---
 
+## 📋 Casos de Teste (BDD)
+
+- [Carrinho de Compras – E-commerce](perspectives/carrinho-BDD/cases/principal.md)  
+  Estrutura de cenários em Gherkin para validar funcionalidades de adicionar, remover, atualizar e calcular valores no carrinho.
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 - Testes Manuais & Automatizados (Selenium, Pytest)  
 - Validação de APIs (Postman)  
@@ -55,8 +63,9 @@ Aqui você encontra meus projetos práticos, aplicando **testes manuais e automa
 ## 🎯 Objetivo
 Integrar equipes de tecnologia como **QA Analyst**, contribuindo com atenção a detalhes, raciocínio analítico e dedicação à entrega de software confiável.
 
+## 📈 Este portfólio será atualizado regularmente com novos projetos, estudos e práticas em QA.
 
 
-## 📈 Evolução Contínua
-Este portfólio será atualizado regularmente com novos projetos, estudos e práticas em QA.
+
+
 
