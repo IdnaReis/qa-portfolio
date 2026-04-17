@@ -9,7 +9,7 @@ Validar a funcionalidade do carrinho de compras garantindo que os produtos possa
 
 ---
 
-## 📋 Cenários de Teste (BDD)
+### 📋 Cenários de Teste (BDD)
 
 ### Funcionalidade: Carrinho de Compras
 **Como** cliente de um e-commerce  
